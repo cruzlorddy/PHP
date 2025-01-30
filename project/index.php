@@ -11,6 +11,6 @@
         $W = "welcome to php";
         echo $W;
     ?>
-    <h1>Welcome to PHP tutorial</h1>
+    <!-- <h1>Welcome to PHP tutorial</h1> -->
 </body>
 </html>
